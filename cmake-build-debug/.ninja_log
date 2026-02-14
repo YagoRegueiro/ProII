@@ -1,0 +1,13 @@
+# ninja log v6
+10	80	7919297980323872	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+30	126	7919299099421707	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+23	135	7919299099354537	CMakeFiles/test_lists.dir/test.c.obj	1ae9751e065071a4
+135	237	7919299100466840	C:/Users/yagor/CLionProjects/P1/bin/test_lists.exe	1fb263dbacae41eb
+6	86	7919300489080049	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+86	189	7919300489878387	C:/Users/yagor/CLionProjects/P1/bin/test_lists.exe	1fb263dbacae41eb
+6	92	7919304821063777	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+93	195	7919304821932875	C:/Users/yagor/CLionProjects/P1/bin/test_lists.exe	1fb263dbacae41eb
+6	89	7919305552727622	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+89	182	7919305553562911	C:/Users/yagor/CLionProjects/P1/bin/test_lists.exe	1fb263dbacae41eb
+6	81	7919308419113752	CMakeFiles/test_lists.dir/static_list.c.obj	3e070fecac924af2
+81	180	7919308419870401	C:/Users/yagor/CLionProjects/P1/bin/test_lists.exe	1fb263dbacae41eb
