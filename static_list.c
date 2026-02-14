@@ -67,8 +67,8 @@ bool insertItem(tItemL d, tPosL p, tList* L) {
 void deleteAtPosition(tPosL p, tList* L) {
  int i;
 
- if(p >= 0 && p < L->lastPos) {
-  for(i = p; i <= L->lastPos; i++) {
+ if(p >= 0 && p <= L->lastPos) {
+  for(i = p; i < L->lastPos; i++) {
    L->data[i] = L->data[i + 1];
   }
   L->lastPos--;
