@@ -1,10 +1,10 @@
 /*
- * TITLE: PROGRAMMING II LABS
+* TITLE: PROGRAMMING II LABS
  * SUBTITLE: Practical 1
- * AUTHOR 1: ***************************** LOGIN 1: **********
- * AUTHOR 2: ***************************** LOGIN 2: **********
- * GROUP: *.*
- * DATE: ** / ** / **
+ * AUTHOR 1: Yago Regueiro Piera LOGIN 1: y.regueiro.piera
+ * AUTHOR 2: Miguel Magdalena Sánchez LOGIN 2: m.magdalenas
+ * GROUP: 4.4
+ * DATE: 25 / 02 / 26
  */
 
 #ifndef STATIC_LIST_H
