@@ -8,7 +8,6 @@
  */
 
 #include "static_list.h"
-
 #include "string.h"
 
 void createEmptyList(tList* L) {

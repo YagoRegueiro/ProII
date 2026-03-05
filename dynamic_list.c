@@ -9,7 +9,6 @@
 
 #include "dynamic_list.h"
 #include <stdlib.h>
-#include <stdio.h>
 #include <string.h>
 
 void createEmptyList(tList* L){ *L = LNULL; }
@@ -21,7 +20,7 @@ tPosL first(tList L){ return L; }
 tPosL last(tList L){
   tPosL p = L;
 
-  while(p != LNULL)
+  while(p->next != LNULL)
     p = p->next;
   return p;
 }
