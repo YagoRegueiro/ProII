@@ -195,5 +195,5 @@ tPosL findItem(tProjectName n, tList L){
     p = p->next;
   }
 
-  return NULL;
+  return LNULL;
 }
