@@ -1,5 +1,5 @@
 /*
-* TITLE: PROGRAMMING II LABS
+ * TITLE: PROGRAMMING II LABS
  * SUBTITLE: Practical 1
  * AUTHOR 1: Yago Regueiro Piera LOGIN 1: y.regueiro.piera
  * AUTHOR 2: Miguel Magdalena Sánchez LOGIN 2: m.magdalenas
@@ -51,3 +51,4 @@ void updateItem(tItemL d , tPosL p, tList* L);
 tPosL findItem(tProjectName n, tList L);
 
 #endif
+
